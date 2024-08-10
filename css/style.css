@@ -93,3 +93,11 @@ table td {
     color: #081317;
     font-weight:500;
 }
+
+table tfoot td{
+    border: 1px solid #91323b;
+}
+
+.img-border {
+    width : 80%;
+}
