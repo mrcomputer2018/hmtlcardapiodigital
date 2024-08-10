@@ -26,6 +26,15 @@ h1 {
     flex-direction: row;
 }
 
+.py-05 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.fs_1 {
+    font-size: 1.1rem;
+}
+
 /** Header **/
 .container {
     max-width: 1170px;
