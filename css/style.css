@@ -15,7 +15,7 @@ body {
 
 h1 {
     font-family: "Forum", cursive;
-    font-size: 3rem;
+    font-size: 2.8rem;
     color: #333;
     font-weight: 300;
     text-align: center;
@@ -41,7 +41,7 @@ h1 {
 }
 
 .header-content img {
-    width: 80px;
+    width: 75px;
 }
 
 /** Main **/
@@ -65,7 +65,7 @@ section {
 }
 
 .span-title {
-    font-size: 2.8rem;
+    font-size: 2.7rem;
     font-family: "Forum", cursive;
     font-weight: 300;
 }
