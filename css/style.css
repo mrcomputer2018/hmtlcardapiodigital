@@ -20,6 +20,12 @@ h1 {
     font-weight: 300;
 }
 
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+/** Header **/
 .container {
     max-width: 1170px;
     margin: auto;
@@ -35,4 +41,13 @@ h1 {
 
 .header-content img {
     width: 80px;
+}
+
+/** Main **/
+aside {
+    width: 300px;
+}
+
+aside img {
+    width: 95%;
 }
