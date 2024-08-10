@@ -16,7 +16,7 @@ body {
 h1 {
     font-family: "Forum", cursive;
     font-size: 2.8rem;
-    color: #333;
+    color:#081317;
     font-weight: 300;
     text-align: center;
 }
@@ -24,15 +24,6 @@ h1 {
 .flex-row {
     display: flex;
     flex-direction: row;
-}
-
-.py-05 {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-}
-
-.fs_1 {
-    font-size: 1.1rem;
 }
 
 .mb-3 {
@@ -94,4 +85,11 @@ table th {
     font-weight: 400;
     font-style: italic;
     padding-bottom: 1.8rem;
+}
+
+table td {
+    padding: 0.3rem 0;
+    font-size: 1.1rem;
+    color: #081317;
+    font-weight:500;
 }
