@@ -35,6 +35,11 @@ h1 {
     margin-bottom: 3rem;
 }
 
+.py-3 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 /** Header **/
 .container {
     max-width: 1170px;
@@ -103,8 +108,8 @@ table tfoot td{
     border: 1px solid #91323b;
 }
 
-.img-border {
-    width : 80%;
+.border-bottom {
+    border-bottom: 6px dotted #91323b;
 }
 
 footer {
