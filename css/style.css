@@ -26,6 +26,11 @@ h1 {
     flex-direction: row;
 }
 
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
 .mb-3 {
     margin-bottom: 3rem;
 }
@@ -100,4 +105,9 @@ table tfoot td{
 
 .img-border {
     width : 80%;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
 }
