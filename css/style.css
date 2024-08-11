@@ -110,4 +110,10 @@ table tfoot td{
 footer {
     text-align: center;
     padding: 1rem 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+footer p {
+    margin-bottom: 0.5rem;
 }
