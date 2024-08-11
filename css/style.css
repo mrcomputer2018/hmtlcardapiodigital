@@ -59,6 +59,11 @@ h1 {
 }
 
 /** Main **/
+.position-aside {
+    position: relative;
+    top: 100px;
+}
+
 aside {
     width: 400px;
 }
